@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://supercaizehua.github.io/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Archie</title>
+    <link>https://supercaizehua.github.io/categories/</link>
+    <description>Recent content in Categories on Archie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
+    <copyright>© Athul</copyright>
     
-	<atom:link href="http://supercaizehua.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://supercaizehua.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
